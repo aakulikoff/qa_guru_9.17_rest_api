@@ -89,6 +89,7 @@ public class ApiTests {
         assertEquals(expectedResponse, actualResponse);
     }
 
+
     @Test
     void deleteUser() {
         given()
